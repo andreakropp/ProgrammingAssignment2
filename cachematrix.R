@@ -5,10 +5,11 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+  x<-1:4
 }
 
 
-## Write a short comment describing this function
+## Testing 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
